@@ -2,8 +2,8 @@
 The Freifunk-Ruhr Boilerplate for our Open-Source projects.
 
 ## Index
-* [License](license)
-* [Memorandium of Understanding](Memorandium_of_Understanding)
+* [License](#License)
+* [Memorandium of Understanding](#Memorandium_of_Understanding)
 
 ## License
 https://github.com/freifunk-ruhr/boilerplate/blob/master/LICENSE
